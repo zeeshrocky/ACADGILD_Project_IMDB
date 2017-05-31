@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\f1c83539a73a1d90c46335e0b838d5477bf12ad6\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_e3b442d2c07e707f3c1254caea15f8826a933862\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d8875e9fdd943047507e823fadc18536a668e7fe">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6685d8170eed7de00a5c39801df6bd680df790e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\85506e8d480f51b35a22b41f000dd4b6c83c3481\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82426719d3456eb9bcac807937820e19818b4463\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\81a1610b6d9a81e47f7f18f5c59d1145f5fbbb17\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9afc672bec536fa41fd4d8aa1b9d1ea824789b42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\22a57c996dbc738e0dc44483084d625e7911dd93\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a536c593606ceeee7d43645256a602d6d4fedcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\7320806045c3975883efd19b1820e3a920d24a2a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56f53820793dafa56c301539771f2ef8a8e6edff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.5_eaa8be12d201b809e4b4a86ddb9bb826c2d5a236\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\562b12c009dd55398acec645e853b6f0ca0badf5\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ec6e006db7501b58c40737c35e3505216c920eae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\81a1610b6d9a81e47f7f18f5c59d1145f5fbbb17\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_54513b830344066bb01186835070b492435a9ec7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\5b687fd760910295becf7360265caea7c262458d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a67756c45cc18eeabcae1595938632a8a7b7553\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\22a57c996dbc738e0dc44483084d625e7911dd93\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_fd41181c2007996ae966394dacbb6bfc69eea38e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\da07cd40cbeb689a1a3e60ef07037afa03057979\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea03a6401eff461446ea8c5debdbd41e89ce1f7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\562b12c009dd55398acec645e853b6f0ca0badf5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3be967afee0a05bea51e142397a39783a9dab9ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\SDK_1\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_fad88472309d290d47ae1983e412801e0cb44e5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\b3c08e5957d27aa925f6c3333cedd4b652802944\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3ed7d84cdfbd3bd701a0a6c35e5292f165342a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\f1c83539a73a1d90c46335e0b838d5477bf12ad6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dfebbca0593b1edcbad1bcde3114067cd8dae5d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\8f7e51ba156c3de87999c2256c0cc2299a7c259e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba1400b8d75057a7ee44a29f4339ce62e024839c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\7320806045c3975883efd19b1820e3a920d24a2a\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6c0d1210dc876c304f435f0a985c26e50ffffc20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_95f8242c629e96bb00dfb7b90fbcde277b29d4c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\50f79862d5866c91f77db4646cbc1c825bf40bb9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a48be7ca63c5f3515c08cfb276b1631778860189\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\bfa02858d3f7c2aa874b922052815268baa11420\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f7d56c34c565e74fe6903e025c1d2a50e603e68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\57211d5db84d8e73032cc1ad8cf3f0a455906d49\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_737bb559866eb5ae40e485b8ca3810237b0854bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CSD Technologies\.android\build-cache\2f9877ae3cfc2307fcb148fc363f4c6515368fa0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\CSD Technologies\Downloads\IMDbproject\IMDbproject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c3af81939cac8d4e0a05d385ce07f8c35078aa5\classes.dex" />
+    </item>
+
+</items>
